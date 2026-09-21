@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Electrical and Electronic Engineering graduate who moved into software and AI. I like building practical Generative AI and Agentic AI apps, and I learn best by shipping real projects and asking why the code works the way it does.
+I am an Electrical and Electronic Engineering graduate who moved into software and AI. I build practical Generative AI and Agentic AI apps, from the first idea to a live deployment.
 
 - 🎯 Goal: become an AI Engineer
 - 🔭 Focus: RAG systems, multi agent systems, and model fine tuning
