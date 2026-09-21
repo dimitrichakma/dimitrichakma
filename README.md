@@ -83,8 +83,6 @@ A full AI app that tracks habits and remembers the user over time. It was built 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dimitrichakma&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrichakma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=dimitrichakma&theme=radical&hide_border=true" alt="GitHub Streak" />
 
